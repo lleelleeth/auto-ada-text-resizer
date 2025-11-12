@@ -50,6 +50,6 @@ A hybrid Figma plugin for WCAG AA compliance: Automatically resizes selected tex
 MIT License — use freely!
 
 ## Author
-[Lilit Papian] — UI/UX Designer from Russia. Contact: [mainlilbox@gmail.com].  
+Lilit Papian — UI/UX Designer from Russia. Contact: [mainlilbox@gmail.com].  
 
 Made with ❤️ for accessible design. Stars/forks appreciated! ⭐
