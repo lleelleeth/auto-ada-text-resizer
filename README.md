@@ -11,7 +11,7 @@ A hybrid Figma plugin for WCAG AA compliance: Automatically resizes selected tex
 - Built for Figma in 1 hour with JS (Figma Plugin API). Open-source for UX community.
 
 ## Installation
-1. **Figma Community:** [Install from Figma Community](https://www.figma.com/community/plugin/12345678-auto-ada-text-resizer)  
+1. **Figma Community:** [Install from Figma Community](https://www.figma.com/community/plugin/1570039063212822234)  
 2. **Manual:**  
    - Clone repo: `git clone https://github.com/lleelleeth/auto-ada-text-resizer.git`  
    - `npm install`  
